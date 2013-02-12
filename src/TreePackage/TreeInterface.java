@@ -1,0 +1,1 @@
+package TreePackage;/*    An interface for ADT Tree.    COMPSCI 105	Assignment 2 - Part 2	Name: 	UPI: */public interface TreeInterface<T>{   public T getRootData();   public int getHeight();   public int getNumberOfNodes();   public boolean isEmpty();   public void clear();} // end TreeInterface
